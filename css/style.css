@@ -4,7 +4,7 @@ body{
 }
 
 .Top_Banner{
-    background-image: url(/images/donation6.jpg);
+    background-image: url(../images/donation6.jpg);
     background-repeat: no-repeat;
    height: 650px;
 
