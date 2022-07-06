@@ -3,10 +3,11 @@ body{
     margin: 0;
 }
 
-.Top_Banner{
-    background-image: url(/images/donation6.jpg);
+.top_banner{
+    background-image: url(../images/donation6.jpg);
     background-repeat: no-repeat;
    height: 650px;
+   background-size: 100%;
 
 }
     
