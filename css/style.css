@@ -34,7 +34,9 @@ body{
     background: #ddd;
     color: black;
   }
-
+/* .profile_imge{
+   padding-left: 650%;
+} */
 /* ul {
     list-style-type: none;
     margin: 0;
@@ -208,12 +210,20 @@ line-height: 30px;
     border: 5px solid white;
     border-radius: 10px;
 }
+.Corporate img{
+/* padding: 40px; */
+margin: 40px;
+}
+
 
 .Get_My_Updates{
 
 line-height: 20px;
 
 }
+
+
+
 .Get_My_Updates h1{
 font-size: 45px;
 line-height: 20px;
@@ -263,3 +273,4 @@ footer p{
     font-size: 12px;
     color: white;
 }
+
