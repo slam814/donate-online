@@ -1,0 +1,212 @@
+body{
+    font-family: 'Gulzar', serif;
+    margin: 0;
+}
+
+.Top_Banner{
+    background-image: url(/images/donation6.jpg);
+    background-repeat: no-repeat;
+   background-size: 100%;
+   height: 650px;
+
+}
+    
+
+.Top_Banner_Text{
+text-align: center;
+padding-top: 150px;
+padding-left: 25%;
+padding-right: 25%;
+line-height: 20px;
+
+}
+.Top_Banner_Text h1{
+    color: white;
+    font-size: 50px;
+    font-weight: 700;
+}
+.Top_Banner_Text p{
+    color: white;
+    font-size: 20px;
+}
+
+.link_button{
+    color: white;
+    background-color: #FF5959;
+    text-decoration: none;
+    padding: 5px 30px;
+    border-radius: 15px;
+}
+
+.flexible_contener{
+
+    display: flex;
+    padding-left: 25%;
+    padding-right: 25%;
+    text-align: center;
+
+}
+.Donate_text{
+
+padding-left: 25%;
+padding-right: 25%;
+text-align: center;
+line-height: 20px;
+
+}
+.Donate_text h2{
+    font-size: 40px;
+
+
+}
+
+
+
+
+
+
+.donate_amount{
+    border: 1px solid;
+  padding: 10px;
+  box-shadow: 2px 1px;
+  margin: 10px;
+  background-color: #FAFAFA;
+  color: #717171;
+ 
+  border-radius: 10px;
+  width: 100px;
+  height: 40px;
+  text-align: center;
+} 
+#donate_amount{
+    border: 1px solid;
+  padding: 10px;
+  box-shadow: 2px 1px;
+  margin: 10px;
+  background-color: #FFEEEE;
+  color: #E65050;
+  font-weight: 700;
+  border: 5px solid #E65050;
+  border-radius: 10px;
+  width: 100px;
+  height: 45px;
+  text-align: center;
+} 
+.other_amount{
+    color: #B3B3B3;
+    text-align: center;
+    
+    line-height: 5px;
+    margin-left: 25%;
+    margin-right: 25%;
+
+}
+.flexible_Box_contener{
+    display: flex;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+#Food_for_a_family{
+    margin: 1%;
+   background-color: #ffe6e6;
+    border: 1px solid;
+    padding: 10px;
+    box-shadow: 5px 2px;
+    width: 26%;
+    border-radius: 10px;
+    line-height: 30px;
+}
+#Shelter_for_a_family{
+    margin: 1%;
+   background-color: #EDF5F6;
+    border: 1px solid;
+    padding: 10px;
+    box-shadow: 5px 2px;
+    width: 26%;
+    border-radius: 10px;
+    line-height: 30px;
+}
+#Education_for_a_child{
+    margin: 1%;
+   background-color:#FFF4D6;
+    border: 1px solid;
+    padding: 10px;
+    box-shadow: 5px 2px;
+    width: 26%;
+    border-radius: 10px;
+    line-height: 30px;
+}
+
+.half_width{
+width: 50%;
+padding-left: 5%;
+padding-right: 5%;
+line-height: 30px;
+
+
+
+}
+.half_width h2{
+    font-size: 40px;
+}
+.half_width img{
+    width: 380px;
+    height: 400px;
+    border: 5px solid white;
+    border-radius: 10px;
+}
+
+.Get_My_Updates{
+
+line-height: 20px;
+
+}
+.Get_My_Updates h1{
+font-size: 45px;
+line-height: 20px;
+
+}
+.Subscribe_Box{
+    height: 100px;
+    width: 100%;
+    background-color: #FFF4D6;
+    padding-top: 75px;
+}
+
+input{
+    height: 30px;
+    width: 350px;
+    padding: 10px;
+    border-radius: 10px;
+    font-size: 20px;
+}
+#input_button{
+    height: 30px;
+    padding-top: 10px;
+    padding-left: 50px;
+    padding-right: 50px;
+    background-color: #FF5959;
+text-decoration: none;
+color: white;
+border-radius: 10px;
+
+}
+footer{
+    height: 150px;
+    background-color: black;
+    padding-top: 20px;
+    text-align: center;
+    
+   
+    margin-bottom: 0px;
+}
+footer h3{
+    font-family: 'Finlandica', sans-serif;
+    font-size: 25px;
+    color: #99434C;
+}
+footer p{
+    
+    font-size: 12px;
+    color: white;
+}
