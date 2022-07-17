@@ -8,6 +8,7 @@ body{
     background-repeat: no-repeat;
    height: 650px;
    background-size: 100%;
+   
 
 }
 
@@ -156,6 +157,17 @@ line-height: 20px;
     margin-right: 25%;
 
 }
+
+#other_amount{
+    border: 0;
+
+    padding-left: 200px;
+}
+
+
+
+
+
 .flexible_Box_contener{
     display: flex;
     padding-left: 10%;
